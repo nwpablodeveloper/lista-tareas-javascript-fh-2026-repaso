@@ -2,6 +2,7 @@
     <section class="todoapp">\r
       <header class="header">\r
         <h1>Tareas</h1>\r
+        <h2>BORRAR LOCALSTORE para reinicar la lista</h2>\r
         <input id="new-todo-input" class="new-todo" placeholder="¿Qué necesita ser hecho?" autofocus>\r
       </header>\r
 \r

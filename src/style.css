@@ -71,8 +71,21 @@ body {
 	position: absolute;
 	top: -140px;
 	width: 100%;
-	font-size: 80px;
+	font-size: 70px;
 	font-weight: 200;
+	text-align: center;
+	color: #b83f45;
+	-webkit-text-rendering: optimizeLegibility;
+	-moz-text-rendering: optimizeLegibility;
+	text-rendering: optimizeLegibility;
+}
+
+.todoapp h2 {
+	position: absolute;
+	top: -55px;
+	width: 100%;
+	font-size: 20px;
+	font-weight: bold;
 	text-align: center;
 	color: #b83f45;
 	-webkit-text-rendering: optimizeLegibility;
